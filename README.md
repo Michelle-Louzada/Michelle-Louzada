@@ -2,7 +2,7 @@
 
 
 ### About me
-I'm a {backend and frontend} developer. I'm studying at Labenu I graduate in January/2021
+I'm a {backend and frontend} developer. I'm studying at Labenu I will graduate in January/2021
 
 - Developed languages: JS, HTML, CSS, Typescript, Jest, React.js, Node.js, AWS, Uniting Test, MySQL. 💻
 - I study Software Engineering at  Estacio University. 👩‍💻
