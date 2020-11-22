@@ -1,37 +1,13 @@
-Alunos(as), sejam bem-vindos(as)!
+# Hi, I'm Michelle Louzada! :)
 
-Esse repositório vai acompanhar vocês até o final do curso, para mantermos a organização, sugerimos que vocês sigam a seguinte estrutura:
 
-```
-.
-├── semana-1
-│   ├── aula1
-│   ├── aula2
-│   ├── aula3
-│   ├── aula4
-│   └── projeto-nome
-|
-├── semana-2
-│   ├── aula5
-│   ├── aula6
-│   ├── aula7
-│   ├── aula8
-│   └── projeto-nome
-|
-├── semana-3
-│   ├── aula9
-│   ├── aula10
-│   ├── aula11
-│   ├── aula12
-│   └── projeto-nome
-|
-├── semana-4
-│   ├── aula13
-│   ├── aula14
-│   ├── aula15
-│   ├── aula16
-│   └── projeto-nome
-|
-```
+### About me
+I'm a {backend and frontend} developer. I'm studying at Labenu I graduate in January/2021
 
-Uma pasta para cada semana, dentro delas uma pasta para cada dia de aula e por fim uma pasta para o projeto da semana.
+- Developed languages: JS, HTML, CSS, Typescript, Jest, React.js, Node.js, AWS, Uniting Test, MySQL. 💻
+- I study Software Engineering at  Estacio University. 👩‍💻
+- Looking for The first opportunity in the IT market as a developer 💼
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Michelle-Louzada)](https://github.com/Michelle-Louzada)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelle-louzada-carballo-888b7017a/)](https://www.linkedin.com/in/michelle-louzada-carballo-888b7017a//)
+
